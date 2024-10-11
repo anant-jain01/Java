@@ -2,7 +2,7 @@ package com.thealgorithms.sorts;
 
 import java.util.Random;
 
-/**
+/***
  * @author Podshivalov Nikita (https://github.com/nikitap492)
  * @see SortAlgorithm
  */
